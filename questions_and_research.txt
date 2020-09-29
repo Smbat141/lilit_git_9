@@ -1,0 +1,64 @@
+Q1:
+yst git flow i, amen mi popxutyun arvum a featurnerov, vory merge a arvum developin
+heto verjum erb patrast a, merge a arvum masterin
+
+amen mi task arvum a amen featureum, develop i vra ashxatum en parperabar
+isk mastery userneri hamar a, et anyndhat xary mxary baner chanelu hamar pahum en
+u verjum erb patrast release ka kam popoxutyun, nor developy merge en anum masterin
+
+Q2:
+
+developy miangamic chen merge anum masterin
+ete git flow ov enq anum, entex karan git flow start release anenq
+u release branch a stexcvum
+u ed release branchum voch te feature ban enq avelacnum,
+ayl inhvor documentationner kam inchvor poqr bug er enq fixum
+
+u heto et release y merge enq anum ham masterin ham developin
+vortev et bugery vor fixel enq release branchi vra, develop branchi vra chkan
+
+Q3:
+develop branch a petq avelacnel
+
+===============
+RESEARCH
+===============
+
+Q1:
+Git Feature Branch Workflow
+
+tarber workflowner kan arhasarak,
+asenq centralized ban
+
+bayc git feature branch workflow n himnakanneric a vory ashxatum a senc
+uremn kan master, develop u feature brancher
+
+popoxutyunnery ban master branchi vra chen katarvum
+
+amen nor task kam nor change, issue anelu hamar featurener en stexcvum develop branchic
+u featurenery merge en linum develop branchin, voh te msterin
+u heto et feature branchery kareli a jnjel
+git flow i hramannerov feature finish taluc inqy miangamic merge a anum develpin u jnjum a
+
+es feature workflown hnaravorutyuna  talis PR ner anelu u petq exac depqum discussionner anelu hamar
+
+vor chisht versiony release anen
+
+Q2:
+
+git flow feature publish
+
+et vonc vovr mer avandakan gitum checkout lines featurei vra u push anes
+git checkout feature/MY-FEATURE
+git pull --rebase origin feature/MY-FEATURE
+
+sa push anelu pes mi ban a
+vor accessible es sarqum mnacac developerneri hamar
+
+skzbum anum es git flow start MY_FEATURE
+inqy bacuma feature branch MY_FEATURE anunov u checkout a linum dra vra
+heto changer es anum ban
+
+
+heto git flow finish MY_FEATURE
+inqy merge a anum develop branchin u jnjum a feature branchy u checkout linum developi vra
